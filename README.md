@@ -5,5 +5,5 @@ You can find :
 - a jupyter notebook with my code
 - datasets (raw) available in dedicated repos at https://github.com/DemocracyStudio
 - slides of the presentation can be found here https://docs.google.com/presentation/d/1IRx9BAcu2bUVIWCOlgs9aBRTXBz6719eRqH7Bva9ncM/edit#slide=id.p
-- video recording of the presentation can be found here 
+- video recording of the presentation can be found here https://youtu.be/rCKv-5IsIS4
 
